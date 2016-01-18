@@ -18,11 +18,10 @@
 <p>6. go to http://localhost:8080</p>
 
 ## Hot Module Replacement
-<p>1. cmd: npm run dev</p>
-<p>2. cmd: npm install -g http-server</p>
-<p>3. cmd: http-server</p>
-<p>4. go to http://localhost:8080/dev</p>
-<p>5. modify the source codes, the browsers will auto-refresh</p>
+<p>1. cmd: http-server</p>
+<p>2. cmd: npm run dev</p>
+<p>3. go to http://localhost:8080/dev</p>
+<p>4. modify the source codes, the browsers will auto-refresh</p>
 
 ## Performance comparison
 <p>go to http://localhost:8080 after Normal Build, try on it, for each library, 2000 checkboxes are rendered for testing.</p>
