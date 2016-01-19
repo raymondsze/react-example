@@ -12,10 +12,11 @@
 ## Normal Build
 <p>1. git clone</p>
 <p>2. cmd: npm install</p>
-<p>3. cmd: npm run build</p>
-<p>4. cmd: npm install -g http-server</p>
-<p>5. cmd: http-server</p>
-<p>6. go to http://localhost:8080</p>
+<p>3. cmd: npm install -g webpack webpack-dev-server</p>
+<p>4. cmd: npm run build</p>
+<p>5. cmd: npm install -g http-server</p>
+<p>6. cmd: http-server</p>
+<p>7. go to http://localhost:8080</p>
 
 ## Hot Module Replacement
 <p>1. cmd: http-server</p>
